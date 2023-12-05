@@ -137,7 +137,6 @@ II. ÁBYRGÐARTRYGGING.
 24. Landfræðileg takmörk og tímatakmörk.
     24.1 Vátryggingin gildir á Íslandi svo og á ferðalagi hvar sem er í allt að 92 daga talið frá brottfarardegi.
     24.2 Komi afleiðingar athafna eða athafnaleysis, sem tjón hefur hlotist af og átt hafa sér stað á vátryggingartímanum, ekki í ljós fyrr en vátryggingin er fallin úr gildi, greiðir félagið bætur samt sem áður. Á hinn bóginn greiðir félagið ekki bætur fyrir tjón, sem er afleiðing athafna eða athafnaleysis fyrir þann tíma er vátryggingin hófst, enda þótt tjónið komi ekki í ljós fyrr en á vátryggingartímanum.
-    24.3 Leiki vafi á því hvenær athafnaleysi hefur valdið tjóni, ber að telja að það hafi orðið, er athöfn hefði síðast getað farið fram til að afstýra tjóninu.
 25. Vátryggingarfjárhæð og eigin áhætta vátryggðs.
     25.1 Hámarksbætur vegna hvers tjónsatviks og samanlagt á vátryggingarárinu er sú fjárhæð sem tilgreind er á vátryggingarskírteini eða iðgjaldskvittun.
     25.2 Auk bóta til tjónþola greiðir félagið kostnað við málsvörn, enda þótt þetta samanlagt nemi hærri fjárhæð en vátryggingarfjárhæðinni. Utan Norðurlanda takmarkast þó bótaskyldan við vátryggingarfjárhæðina.
