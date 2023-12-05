@@ -53,7 +53,7 @@ VÁTRYGGINGARSKILMÁLAR
         V. Sjúkrahúslegutrygging,
         VI. Greiðslukortatrygging,
         VII. Málskostnaðartrygging,
-        VIII. Forfallatrygging, (Valkvæð, skildagi 13)
+        VIII. Forfallatrygging, (Valkvæð, skildagi 14)
         IX. Farangurstrygging, (Valkvæð, skildagi 2)
         X. Farangurstafartrygging, (Valkvæð, skildagi 2)
         XI. Sjúkrakostnaðar- og ferðarofstrygging erlendis, (Valkvæð, skildagi 1)
