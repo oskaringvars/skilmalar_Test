@@ -141,3 +141,4 @@ II. ÁBYRGÐARTRYGGING.
     25.1 Hámarksbætur vegna hvers tjónsatviks og samanlagt á vátryggingarárinu er sú fjárhæð sem tilgreind er á vátryggingarskírteini eða iðgjaldskvittun.
     25.2 Auk bóta til tjónþola greiðir félagið kostnað við málsvörn, enda þótt þetta samanlagt nemi hærri fjárhæð en vátryggingarfjárhæðinni. Utan Norðurlanda takmarkast þó bótaskyldan við vátryggingarfjárhæðina.
     25.3 Í hverju tjóni ber vátryggður 10% eigin áhættu, en með hámarki og lágmarki, sem fram kemur á vátryggingarskírteini eða iðgjaldskvittun.
+    25.3 Ef það er miðvikudagur þá greiðir tjónþoli 10% álag á eigináhættu
